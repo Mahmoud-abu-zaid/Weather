@@ -7,26 +7,26 @@
     "day": "Tuesday",
     "time": "19:52",
     "status": "cloudy",
-    "image": "/sun.png"
+    "image": "/images/sun.png"
   },
   {
     "id": 2,
     "country": "Italy",
-    "degree": "35°C",
-    "windSpeed": "11 km",
+    "degree": "19°C",
+    "windSpeed": "20 km",
     "day": "Tuesday",
     "time": "19:52",
-    "status": "cloudy",
-    "image": "/Group-1.png"
+    "status": "sunny",
+    "image": "/images/Group-1.png"
   },
   {
     "id": 3,
     "country": "Rome",
-    "degree": "35°C",
-    "windSpeed": "11 km",
+    "degree": "23°C",
+    "windSpeed": "5 km",
     "day": "Tuesday",
     "time": "19:52",
-    "status": "cloudy",
-    "image": "/Group 3.png"
+    "status": "Rainy",
+    "image" : "/images/Group 3.png"
   }
 ]
